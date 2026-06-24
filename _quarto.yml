@@ -16,7 +16,7 @@ website:
     background: primary
     left:
       - text: "Home"
-        href: index.qmd
+        href: about.qmd
     right: 
       - icon: github
         href: https://github.com/nceas-learning-hub/2026_delta_week3
